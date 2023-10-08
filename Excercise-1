@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Excercise-1</title>
+    
+</head>
+<body>
+    <video src="1.mp4" controls ></video>
+    <audio src="1.mp3"controls ></audio> 
+    <p style="color: rgb(0, 183, 255);font: 1.5em arial;">AUDIO AND VIDEO-1</p>
+    <video src="2.mp4" controls>Video</video>
+    <audio src="2.mp3"controls ></audio> 
+    <p style="color: rgb(0, 183, 255);font: 1.5em arial;">AUDIO AND VIDEO-2</p>
+    <video src="3.mp4" controls>Video</video>
+    <audio src="3.mp3"controls ></audio> 
+    <p style="color: rgb(0, 183, 255);font: 1.5em arial;">AUDIO AND VIDEO-3</p>
+    <video src="4.mp4" controls>Video</video>
+    <audio src="4.mp3"controls ></audio> 
+    <p style="color: rgb(0, 183, 255);font: 1.5em arial;">AUDIO AND VIDEO-4</p>
+    <video src="5.mp4" controls>Video</video>
+    <audio src="5.mp3"controls ></audio> 
+    <p style="color: rgb(0, 183, 255);font: 1.5em arial;">AUDIO AND VIDEO-5</p>
+    <video src="6.mp4" controls>Video</video>
+    <audio src="6.mp3"controls ></audio> 
+    <p style="color: rgb(0, 183, 255);font: 1.5em arial;">AUDIO AND VIDEO-6</p>
+
+    
+    
+</body>
+</html>
